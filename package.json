@@ -14,5 +14,9 @@
     "eslint": ">= 4"
   },
   "author": "Jon K. Bernhardsen",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonbern/eslint-config-jonbern"
+  }
 }
